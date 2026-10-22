@@ -47,24 +47,25 @@ I work with Django and React, but I want to go beyond framework-level developmen
 </div>
 
 ## 🎯 Current Focus
-
-- `01` Learning Linux internals and operating systems
-- `02` Understanding processes, threads, scheduling, and context switching
-- `03` Exploring networking, TCP/IP, sockets, and HTTP
-- `04` Deepening Python internals, concurrency, and backend development
-- `05` Exploring databases, indexing, and storage fundamentals
-- `06` Strengthening algorithms, data structures, and complexity
-- `07` Building practical applications with Django and React
+```text
+01 Learning Linux internals and operating systems
+02 Understanding processes, threads, scheduling, and context switching
+03 Exploring networking, TCP/IP, sockets, and HTTP
+04 Deepening Python internals, concurrency, and backend development
+05 Exploring databases, indexing, and storage fundamentals
+06 Strengthening algorithms, data structures, and complexity
+07 Building practical applications with Django and React
+```
 
 I'm learning from the inside out — connecting application-level development with the systems underneath it. Through experiments, practical projects, and notes, I want to understand not just *what* happens, but *why* it happens.
 
+
+
 ## 📁 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="80%" valign="top">
+<img align="right" src="https://img.shields.io/badge/In%20Progress-0D4F3C?style=flat-square" alt="In Progress" />
 
-### 🧠 [cs-systems-learning-lab](https://github.com/sandeepzx/gilfoyle-mode)
+### 🧠 [CS Systems Learning Lab](https://github.com/sandeepzx/gilfoyle-mode)
 
 A structured computer science and systems learning repository covering 12 engineering pillars, from computer science fundamentals to infrastructure and building systems from scratch.
 
@@ -72,20 +73,13 @@ A structured computer science and systems learning repository covering 12 engine
 
 `CS Fundamentals` `Linux` `Networking` `Python` `Systems`
 
-</td>
-<td width="20%" align="right" valign="top">
+---
 
-<img src="https://img.shields.io/badge/In%20Progress-0D4F3C?style=flat-square" alt="In Progress" />
-
-</td>
-</tr>
-
-<tr>
-<td width="80%" valign="top">
+<img align="right" src="https://img.shields.io/badge/Completed-1F6FEB?style=flat-square" alt="Completed" />
 
 ### 🤖 [AI Study Buddy — GPT-OSS-20B](https://github.com/sandeepzx/chatbot)
 
-An AI-powered study assistant that helps students understand complex topics, summarize notes, and work through problems using the GPT-OSS-20B model via Groq.
+An AI-powered study assistant that helps students understand complex topics, summarize notes, and solve problems using the GPT-OSS-20B model via Groq.
 
 **Key Features:** Study-focused explanations · Note summarization · Problem-solving · LangChain integration
 
@@ -93,16 +87,9 @@ An AI-powered study assistant that helps students understand complex topics, sum
 
 `Python` `LLMs` `Groq` `LangChain` `AI`
 
+---
 
-</td>
-<td width="20%" align="right" valign="top">
-
-<img src="https://img.shields.io/badge/Completed-1F6FEB?style=flat-square" alt="Completed" />
-
-</td>
-</tr>
-<tr>
-<td width="80%" valign="top">
+<img align="right" src="https://img.shields.io/badge/Completed-1F6FEB?style=flat-square" alt="Completed" />
 
 ### ⚽ [World Cup Fixtures Terminal CLI](https://github.com/sandeepzx/world-cup-fixtures-terminal)
 
@@ -114,15 +101,6 @@ A lightweight Python CLI that fetches FIFA World Cup fixtures from the football-
 
 `Python` `CLI` `REST API` `JSON` `Timezone Handling`
 
-</td>
-<td width="20%" align="right" valign="top">
-
-<img src="https://img.shields.io/badge/Completed-1F6FEB?style=flat-square" alt="Completed" />
-
-</td>
-</tr>
-
-</table>
 
 ## 🧭 Engineering Philosophy
 
